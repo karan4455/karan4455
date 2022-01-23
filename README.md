@@ -1,10 +1,22 @@
-- 👋 Hi, I’m @karan4455
-- 👀 I’m interested in developing new things 
-- 🌱 I’m currently learning to create something
-- 💞️ I’m looking to collaborate on instagram
-- 📫 How to reach me....
 
-<!---
-karan4455/karan4455 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div align="center"><img src="https://i.pinimg.com/originals/66/83/3e/66833e07d6fb9eb5d724e47d0c814285.gif" width="50%"></div>
+
+<h2 align="center">My name is Karan Jethava 👋</h2>
+
+<p align='center'>
+  <a href="https://instagram.com/_krn_3.0" target="_blank"><img src="https://img.shields.io/badge/Instagram-F58529?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://www.linkedin.com/in/karan-jethava-7905771a1/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-0e76a8?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Instagram"></a>
+  <a href="https://twitter.com/karanjethava03" target="_blank"><img src="https://img.shields.io/badge/Twitter-00acee?&style=for-the-badge&logo=twitter&logoColor=white" alt="Instagram"></a>
+</p>
+
+<p align="center">
+  I am a 20 year old Developer,CSE Student, Tech Geek from India. I'm in a 3rd year at GTU. I am interested about android development and python.
+</p>
+  
+  
+<div align="center">
+ 🔭 I’m currently working on something cool.<br>
+ 🌱 I’m currently learning Advance Java.<br>
+ 👯 I’m looking to collaborate on Instagram<br>
+ 💬 Ask me about java and python.<br>
+</div>
