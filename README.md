@@ -10,13 +10,13 @@
 </p>
 
 <p align="center">
-  I am a 20 year old Developer,CSE Student, Tech Geek from India. I'm in a 3rd year at GTU. I am interested about android development and python.
+  I am a 20 year old Developer,CSE Student, Tech Geek from India. I'm in a 3rd year at GTU. I am interested in web developement.
 </p>
   
   
 <div align="center">
  🔭 I’m currently working on something cool.<br>
- 🌱 I’m currently learning Advance Java.<br>
+ 🌱 I’m currently learning python.<br>
  👯 I’m looking to collaborate on Instagram<br>
- 💬 Ask me about java and python.<br>
+ 💬 Ask me about python.<br>
 </div>
